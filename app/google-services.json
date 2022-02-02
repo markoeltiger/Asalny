@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "135561247152",
+    "project_id": "talimy-e42aa",
+    "storage_bucket": "talimy-e42aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135561247152:android:0c1cc7ed9028c1506dfe75",
+        "android_client_info": {
+          "package_name": "com.wrteam.asalny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135561247152-s8ib9sh40e59b2n9kqejg6snkk9r2p66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.asalny",
+            "certificate_hash": "7b6bf28e8fcd27cbb05f4f8719ce992c7eda7142"
+          }
+        },
+        {
+          "client_id": "135561247152-u7nbj84i254kgrlbpmi4bcp9ceuqpokb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdKBJADIimQQzxdf-GysAO6GksQIDRODM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135561247152-u7nbj84i254kgrlbpmi4bcp9ceuqpokb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
