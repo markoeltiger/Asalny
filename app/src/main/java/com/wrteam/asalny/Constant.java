@@ -2,11 +2,11 @@ package com.wrteam.asalny;
 
 public class Constant {
 
-    private static String DOMAIN_URL = "https://task-eg.net/quizz/"; //domain or admin panel url
+    private static String DOMAIN_URL = "https://exams.forexnews.trade/newadmin"; //domain or admin panel url
     public static String QUIZ_URL = DOMAIN_URL + "api-v2.php";  //api url
     /////// PARAMETERS  ///////
     public static String AUTHORIZATION = "Authorization";
-    public static String JWT_KEY = "!@#task!@#";
+    public static String JWT_KEY = "9066";
     public static String accessKey = "access_key";
     public static String accessKeyValue = "6808";
     public static String name = "name";
